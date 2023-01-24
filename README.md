@@ -1,2 +1,2 @@
 # Emotions-Classification
-CN240
+CN240 เป็นเพียงโค้ดบางส่วน
